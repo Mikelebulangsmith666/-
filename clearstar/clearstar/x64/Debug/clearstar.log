@@ -1,7 +1,0 @@
-﻿  clearstargame.cpp
-E:\Visual Studio protest\clearstar\clearstar\clearstargame.cpp(706,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-E:\Visual Studio protest\clearstar\clearstar\clearstargame.cpp(189,1): warning C4715: “randcolor”: 不是所有的控件路径都返回值
-E:\Visual Studio protest\clearstar\clearstar\clearstargame.cpp(378,1): warning C4715: “gettickfloor”: 不是所有的控件路径都返回值
-E:\Visual Studio protest\clearstar\clearstar\clearstargame.cpp(493,1): warning C4715: “all_clear”: 不是所有的控件路径都返回值
-E:\Visual Studio protest\clearstar\clearstar\clearstargame.cpp(535,1): warning C4715: “kuosan”: 不是所有的控件路径都返回值
-  clearstar.vcxproj -> E:\Visual Studio protest\clearstar\x64\Debug\clearstar.exe
