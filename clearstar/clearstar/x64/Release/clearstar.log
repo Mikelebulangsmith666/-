@@ -1,0 +1,8 @@
+﻿  clearstargame.cpp
+E:\Visual Studio protest\clearstar\clearstar\clearstargame.cpp(706,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  0 of 46 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  clearstar.vcxproj -> E:\Visual Studio protest\clearstar\x64\Release\clearstar.exe
